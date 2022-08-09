@@ -28,7 +28,6 @@ while True:
 
     if len(users) > 9:
         break
-
 users_data = {
     'results': users
 }
